@@ -15,7 +15,7 @@ A machine-learning project exploring electricity demand prediction and applicati
 Focus: Time Series · Energy Systems · Forecasting
 
 ## 📚 Education / The University of Tokyo B.A. -- International Environmental Sciences
-##🌱 I’m currently learning Machine Learning · Data Structures & Algorithms · Time-Series Analysis · Optimization
+🌱 I’m currently learning Machine Learning · Data Structures & Algorithms · Time-Series Analysis · Optimization
 ## 👯 I’m looking to collaborate on ...
 ## 🤔 I’m looking for help with real-world projects 
 ## 📫 How to reach me: Jimmylim5102@gmail.com 
